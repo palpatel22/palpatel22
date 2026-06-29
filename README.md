@@ -57,7 +57,7 @@
 
 ---
 
-### 📊 [Consumer Complaint Classifier](https://github.com/palpatel22)
+### 📊 [Consumer Complaint Classifier](https://github.com/meetparmar392005/AI-Based-Consumer-Complaint-Classification-Priority-Prediction-System)
 > Classified 50,000 consumer complaints with **99.16% accuracy**  
 - TF-IDF vectorization (5,000 features) + Logistic Regression  
 - F1-scores of 0.99–1.00 for Critical, High & Medium priority classes  
