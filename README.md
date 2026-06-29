@@ -48,7 +48,7 @@
 
 ## 📌 Featured Projects
 
-### 🔍 [Intelligent Document Q&A System (RAG)](https://github.com/palpatel22)
+### 🔍 [Intelligent Document Q&A System (RAG)](https://github.com/palpatel22/rag-project)
 > AI-powered natural language querying over PDFs, TXT & CSV files  
 - Hybrid retrieval: **BM25 + FAISS** vector search  
 - Integrated **LLaMA 3.1** via LangChain  
