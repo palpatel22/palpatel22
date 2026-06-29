@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pal Andani!
 
-🎓 B.Tech Computer Engineering Student @ **G H Patel College of Engineering & Technology (GTU)** | CGPA: 9.15/10  
+🎓 B.Tech Computer Engineering Student @ **G H Patel College of Engineering & Technology ** | CGPA: 9.15/10  
 🤖 Passionate about **AI/ML · RAG Systems · Computer Vision · Agentic AI**  
 📍 Gujarat, India
 
