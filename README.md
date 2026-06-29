@@ -13,7 +13,7 @@
 - 💼 AI/ML Intern @ **InternPe** | Ex-DS & ML Intern @ **Brainybeam Info-Tech**
 - 🏆 **SAP Certified** Backend Developer – ABAP Cloud
 - 🤝 Open to **internship & collaboration** opportunities in AI/ML and Data Science
-- ⚡ Fun fact: I also love crochet and Vedic astrology!
+- ⚡ Fun fact: I also love crochet and crafting 
 
 ---
 
